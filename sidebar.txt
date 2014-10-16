@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ayq:home|Door43 (ayq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ayq|d43-ayq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ayq/archive/master.zip|d43-ayq.zip]]
+
+**Recent Changes**
+{{changes>ns = ayq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ayq|Ethnologue data]]
+
